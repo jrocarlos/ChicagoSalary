@@ -1,2 +1,2 @@
 # ChicagoSalary
-Data analyst about Chicago police officer salary's
+Data analysis about Chicago police officer annual salary's
